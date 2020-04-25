@@ -65,7 +65,7 @@ console.log("click")
             {this.state.employee.map(employee => (
             
               <Employee
-                id={employee.id}+
+                id={employee.id}
                 key={employee.id}
                 name={employee.name}
                 image={employee.image}

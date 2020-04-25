@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","index.css"],"names":[],"mappings":"AAAA,IACI,UACJ,CCFA,EACE,qBAAsB,CACtB,sBACF,CAEA,gBACE,SAAU,CACV,QAAS,CACT,WACF","file":"main.a6fbd9f5.chunk.css","sourcesContent":["img{\r\n    width: 50px;\r\n}","* {\n  box-sizing: border-box;\n  font-family: sans-serif;\n}\n\nhtml, body, #root {\n  padding: 0;\n  margin: 0;\n  height: 100%;\n}\n"]}
